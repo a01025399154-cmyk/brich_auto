@@ -7,7 +7,7 @@ GSPREAD_CREDENTIALS_PATH = "/Users/a11/Desktop/cursor/credentials/inner-sale-979
 SPREADSHEET_NAME = '딜 세팅(지마켓, 옥션)'
 
 # 3. 데이터를 가져올 탭(시트) 이름
-SOURCE_SHEET_NAME = '251121 아이미마인1.0_서브딜'
+SOURCE_SHEET_NAME = '251122 아이미마인1.0_서브딜'
 
 # 4. 상품번호가 있는 열 (A=1, B=2, C=3, ...)
 PRODUCT_ID_COLUMN = 2  # B열
