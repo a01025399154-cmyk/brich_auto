@@ -1,0 +1,15 @@
+gspread==5.12.4
+google-auth==2.23.4
+pandas==2.1.4
+selenium==4.15.2
+webdriver-manager==4.0.1
+openpyxl==3.1.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+scikit-learn==1.6.1
+python-dotenv==1.0.0
+
+# CJ 할인 데이터 분할 프로그램 필수 라이브러리:
+# - pandas: 엑셀 파일 읽기/쓰기
+# - openpyxl: 엑셀 파일 조작 및 서식 유지
+# - python-dotenv: 환경변수 파일(.env) 로드 (선택사항)
